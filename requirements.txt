@@ -1,5 +1,4 @@
 pillow
-fitz
 PyMuPDF
-faiss
+faiss-cpu
 openai==0.28.0
