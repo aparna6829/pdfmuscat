@@ -2,3 +2,4 @@ pillow
 PyMuPDF
 faiss-cpu
 openai==0.28.0
+transformers
