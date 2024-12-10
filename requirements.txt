@@ -1,0 +1,5 @@
+pillow
+fitz
+PyMuPDF
+faiss
+openai==0.28.0
